@@ -5,12 +5,11 @@ Das ist der beste Titel von Bon Jovi
 * Unbroken
 * Bed of Roses
 
-
+<img src="https://web.de/magazine/unterhaltung/thema/jon-bon-jovi"/>
 
 
 
 
 
 > I always love the songs
-<img src="https://web.de/magazine/unterhaltung/thema/jon-bon-jovi"
-     alt="Bon jovi Icon"/>
+
