@@ -12,3 +12,5 @@ Das ist der beste Titel von Bon Jovi
 
 
 > I always love the songs
+<img src="https://web.de/magazine/unterhaltung/thema/jon-bon-jovi"
+     alt="Bon jovi Icon"/>
